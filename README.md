@@ -7,4 +7,5 @@ Some elements were removed, adjusted and manually added to better reflect propos
 
 **Note:**
 Run `npm i` inside each FSL Mockup directory
+
 Run `npm run dev` to run the site on local machine.
